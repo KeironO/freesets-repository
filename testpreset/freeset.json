@@ -1,0 +1,7 @@
+{
+	"Title" : "Testing Preset",
+	"Author" : "Keiron O'Shea <keiron@fastmail.co.uk>",
+	"Author Website" : "https://www.github.com/KeironO",
+	"Description" : "This is a test freeset. I'm not sure if this standard will continue beyond this initial write up, but I look forward to developing some form of standard for representing metadata associated with each preset.",
+	"Tags" : ["Landscape", "Light", "Vibrant"]
+ }
